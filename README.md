@@ -7,9 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=Turning+raw+plant+data+into+decisions;Predicting+failures+before+they+happen;Using+data+to+fight+air+%26+water+pollution;Engineer+%E2%9E%9C+Analyst+%E2%9E%9C+Data+Scientist" alt="Typing animation" />
 </a>
 
-<br/>
-
-![image](Gemini_Generated_Image_qeb6qnqeb6qnqeb6.jpg)
 </div>
 
 ---
