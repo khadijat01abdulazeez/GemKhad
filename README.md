@@ -18,14 +18,16 @@
 
 ## 🧰 Toolkit
 
+## 🧰 Toolkit
+
 <div align="center">
 
 | 🔧 Domain | ⚡ Tools & Skills |
 | :---: | :--- |
-| 🌍 **Environmental Data Science** | ![Water](https://img.shields.io/badge/Water_Pollution_Monitoring-0F766E?style=flat-square) ![Emissions](https://img.shields.io/badge/Emissions_%26_Industrial_Safety_Analytics-14B8A6?style=flat-square) ![Sustainability](https://img.shields.io/badge/Sustainability_Modeling-F59E0B?style=flat-square) |
-| 🤖 **Data Science** | ![Predictive](https://img.shields.io/badge/Predictive_Modeling-0F766E?style=flat-square&logo=scikitlearn&logoColor=white) ![TimeSeries](https://img.shields.io/badge/Time--Series_Analysis-14B8A6?style=flat-square) ![PowerBI](https://img.shields.io/badge/KPI_Dashboards-Power_BI-F59E0B?style=flat-square) ![Wrangling](https://img.shields.io/badge/Data_Wrangling-1E293B?style=flat-square&logo=pandas&logoColor=white) |
-| ⚙️ **Engineering** | ![Planning](https://img.shields.io/badge/Maintenance_Planning-0F766E?style=flat-square) ![SAP](https://img.shields.io/badge/SAP-PM-14B8A6?style=flat-square&logo=sap&logoColor=white) ![Equipment](https://img.shields.io/badge/Rotating_%26_Static_Equipment_Maintenance-F59E0B?style=flat-square) ![CBM](https://img.shields.io/badge/Condition--Based_Monitoring-1E293B?style=flat-square) ![Design](https://img.shields.io/badge/System_Design-F97316?style=flat-square) |
-| 🗣️ **Soft Skills** | ![Pattern](https://img.shields.io/badge/Pattern_Recognition_%26_Analytical_Thinking-0F766E?style=flat-square) ![Comms](https://img.shields.io/badge/Verbal_%26_Written_Communication-14B8A6?style=flat-square) ![Problem](https://img.shields.io/badge/Problem_Solving-F59E0B?style=flat-square) ![Planning](https://img.shields.io/badge/Planning_%26_Organisation-1E293B?style=flat-square) |
+| 📊 **Environmental Data Science** | water pollution monitoring, Emissions & industrial Safety Analytics, Sustainability Modeling |
+| 🤖 **Data Science** | Predictive Modeling, Time-Series Analysis, KPI Dashboards (Power BI), Data Wrangling |
+| ⚙️ **Engineering** | Maintenance planning, SAP(PM), Rotating/Static Equipment Maintenance, Condition-Based Monitoring, System Design |
+| 🗣️ **Soft Skills** | Pattern recognition and analytical thinking, excellent verbal and witten communication, problem solving, planning and organisation. |
 
 </div>
 
