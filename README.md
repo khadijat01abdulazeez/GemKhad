@@ -1,16 +1,4 @@
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:F59E0B&height=230&section=header&text=Hi%2C%20I'm%20Khadijat&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Mechanical%20%26%20Planning%20Engineer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Sustainability&descAlignY=60&descSize=18" alt="Header banner" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=Turning+raw+plant+data+into+decisions;Predicting+failures+before+they+happen;Using+data+to+fight+air+%26+water+pollution;Engineer+%E2%9E%9C+Analyst+%E2%9E%9C+Data+Scientist" alt="Typing animation" />
-</a>
-
-</div>
-
----
-
 ## 👩🏽‍🔧 About Me
 
 > *I'm a mechanical engineer who looked at the mountains of data coming off industrial equipment and thought: "There's a story in here."*
