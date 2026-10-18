@@ -1,4 +1,4 @@
-<!-- ========== HEADER BANNER ========== -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:F59E0B&height=230&section=header&text=Hi%2C%20I'm%20Khadijat&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Mechanical%20%26%20Planning%20Engineer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Sustainability&descAlignY=60&descSize=18" alt="Header banner" />
