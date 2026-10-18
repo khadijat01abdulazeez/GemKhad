@@ -29,11 +29,14 @@ Years of **hands-on maintenance, troubleshooting and planning** taught me how ma
 <div align="center">
 
 | 🔧 Domain | ⚡ Tools & Skills |
-| :---: | :--- |
-| 📊 **Analytics & Visualization** | ![Python](https://img.shields.io/badge/Pandas-0F766E?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-14B8A6?style=flat-square&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1E293B?style=flat-square&logo=postgresql&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F59E0B?style=flat-square&logo=powerbi&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-0F766E?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| 🤖 **Data Science** | ![Predictive](https://img.shields.io/badge/Predictive_Analytics-14B8A6?style=flat-square) ![ML](https://img.shields.io/badge/Machine_Learning-In_Progress-F97316?style=flat-square&logo=scikitlearn&logoColor=white) |
-| ⚙️ **Engineering** | ![Planning](https://img.shields.io/badge/Maintenance_Planning-1E293B?style=flat-square) ![Reliability](https://img.shields.io/badge/Asset_Reliability-0F766E?style=flat-square) ![Equipment](https://img.shields.io/badge/Rotating_%26_Static_Equipment-F59E0B?style=flat-square) |
-| 🗣️ **Soft Skills** | ![Comms](https://img.shields.io/badge/Technical_Communication-14B8A6?style=flat-square) ![Story](https://img.shields.io/badge/Data_Storytelling-F97316?style=flat-square) ![Problem](https://img.shields.io/badge/Problem_Solving-1E293B?style=flat-square) |
+
+| 📊 **Analytics & Visualization** 
+
+| 🤖 **Data Science** 
+
+| ⚙️ **Engineering** 
+
+| 🗣️ **Soft Skills** | 
 
 </div>
 
@@ -104,10 +107,6 @@ Years of **hands-on maintenance, troubleshooting and planning** taught me how ma
 ## 🤝 Let's Connect
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_WEBSITE)
 
 <br/>
 
