@@ -9,12 +9,7 @@
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-0F766E?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-14B8A6?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F59E0B?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-1E293B?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-In_Progress-F97316?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
+![image]()
 </div>
 
 ---
