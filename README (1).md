@@ -1,23 +1,20 @@
 <!-- ========== HEADER BANNER ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:F59E0B&height=230&section=header&text=Hi%2C%20I'm%20Khadijat&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Mechanical%20%26%20Planning%20Engineer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Sustainability&descAlignY=60&descSize=18" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:14B8A6,100:F59E0B&height=200&section=header&text=Khadijat&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Mechanical%20Engineer%20%7C%20Data%20Science%20%7C%20Sustainability&descAlignY=62&descSize=18" alt="Khadijat - Mechanical Engineer, Data Science, Sustainability" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=Turning+raw+plant+data+into+decisions;Predicting+failures+before+they+happen;Using+data+to+fight+air+%26+water+pollution;Engineer+%E2%9E%9C+Analyst+%E2%9E%9C+Data+Scientist" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=14B8A6&center=true&vCenter=true&width=600&height=45&lines=Turning+raw+plant+data+into+decisions;Predicting+failures+before+they+happen;Using+data+to+fight+air+and+water+pollution" alt="Typing animation" />
 
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-0F766E?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-14B8A6?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F59E0B?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-1E293B?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F59E0B?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-1E293B?style=for-the-badge&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine_Learning-In_Progress-F97316?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
 
----
 
 ## 👩🏽‍🔧 About Me
 
