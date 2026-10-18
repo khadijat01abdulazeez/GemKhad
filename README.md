@@ -12,15 +12,7 @@
 
 ## 👩🏽‍🔧 About Me
 
-> *I'm a mechanical engineer who looked at the mountains of data coming off industrial equipment and thought: "There's a story in here."*
-
-Years of **hands-on maintenance, troubleshooting and planning** taught me how machines behave. Data science taught me how to *listen* to them. Today I combine both to:
-
-| 🎯 Mission | 💡 What it means |
-| :--- | :--- |
-| **Predict, don't react** | Spot equipment degradation early and cut unplanned downtime |
-| **Protect the planet** | Apply data science to air and water pollution challenges |
-| **Tell the story** | Turn complex data into clear, actionable engineering decisions |
+> *IAs a Mechanical Engineer managing plant reliability, my work centered on the physical reality of heavy industry—protecting high-stakes rotating equipment from premature wear, heat, and vibration. To shift from reactive fixes to proactive precision, I turned to data science. Currently, I combine SAP PM, SQL, Python, and Power BI to track material consumption, trim operational costs, and engineer predictive models that anticipate mechanical failures before they disrupt operations. Machines aren't the only systems that produce vital data signals—our ecosystems do too. My focus is on scaling these analytical tools into Environmental Data Science to track, predict, and eliminate industrial air and water pollution across the oil and gas value chain"*
 
 ---
 
@@ -30,13 +22,13 @@ Years of **hands-on maintenance, troubleshooting and planning** taught me how ma
 
 | 🔧 Domain | ⚡ Tools & Skills |
 
-| 📊 **Analytics & Visualization** 
+| 📊 **Environmental Data Science** | water pollution monitoring, Emissions & industrial Safety Analytics, Sustainability Modeling
 
-| 🤖 **Data Science** 
+| 🤖 **Data Science** |Predictive Modeling, Time-Series Analysis, KPI Dashboards (Power BI), Data Wrangling
 
-| ⚙️ **Engineering** 
+| ⚙️ **Engineering**|  Maintenance planning, SAP(PM), Rotating/Static Equipment Maintenance, Condition-Based Monitoring, System Design
 
-| 🗣️ **Soft Skills** | 
+| 🗣️ **Soft Skills** | Pattern recognition and analytical thinking, excellent verbal and witten communication, problem solving, planning and organisation.
 
 </div>
 
